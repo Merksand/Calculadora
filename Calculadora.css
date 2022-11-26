@@ -27,7 +27,7 @@ body{
     margin:4px 6px;
     background: #fff;
     color: #100816;
-    font-size: 25px;
+    font-size: 28px;
 }
 .pantalla input{
     width: 100% ;
@@ -82,6 +82,7 @@ span{
     height:5px;
     width: 30px;
     margin-top: 4px;
+    border-radius:20px;
 }
 .menu{
     background: #ffffff;
