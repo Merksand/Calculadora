@@ -90,7 +90,7 @@ span{
     margin: 10px;
     border-radius: 10px;
     position: absolute;
-    transition: all 1s;
+    transition: all .5s;
     padding:3px; 
     transform: scale(0);
 }
